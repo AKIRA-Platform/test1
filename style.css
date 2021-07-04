@@ -1,0 +1,98 @@
+body{
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+}
+h2 h3{
+    color: #383e38;
+}
+p{
+    color: #7b7b7b;
+}
+main{
+    padding-bottom: 50px;
+}
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0;
+    /* height: 60px; */
+    background-color: #F0F8FF;
+}
+.wrapper{
+    /* max-width: 1140px; */
+    padding: 0 4%;
+    text-align: center;
+}
+.site-title{
+    margin: 0;
+    padding: 10px 0;
+}
+
+#header ul{
+    display: flex;
+    padding: 10px 0;
+}
+#header li{
+    list-style: none;
+    margin-left: 30px;
+}
+#header a{
+    text-decoration: none;
+    color: black;
+}
+main{
+    background-color: #f7f7f7;
+}
+#main-img img{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 50px;
+}
+.wrapper{
+    margin-bottom: 50px;
+    padding: 0 4%;
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-title{
+    display: inline-block;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 60px;
+    border-bottom: solid 1px ;
+}
+#About img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+h3{
+    font-size: 1rem;
+    margin: 10px 0;
+}
+#Hobby img{
+    width: 230px;
+    height: 160px;
+
+}
+#Hobby li{
+    list-style: none;
+    margin: auto;
+}
+footer{
+    text-align: center;
+    padding-top: 5px 0;
+}
+#Hobby ul{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding: 0;
+}
